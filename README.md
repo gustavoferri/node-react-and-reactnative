@@ -2,7 +2,7 @@
 
 Tecnologias e bibliotecas utilizadas:
 
-Express<br />
+<em>Express</em><br />
 $ npm install express --save 
 
 MongoDB Compass<br />
