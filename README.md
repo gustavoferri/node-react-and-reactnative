@@ -3,10 +3,10 @@
 Tecnologias e bibliotecas utilizadas:
 
 Express<br />
-->$ npm install express --save 
+$ npm install express --save 
 
 MongoDB Compass<br />
-->$ https://www.mongodb.com/download-center/compass
+-> https://www.mongodb.com/download-center/compass
 
 Mongoose - https://mongoosejs.com/<br />
-->$ npm install mongoose --save
+-$ npm install mongoose --save
