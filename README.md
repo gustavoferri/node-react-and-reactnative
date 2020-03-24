@@ -9,4 +9,4 @@ MongoDB Compass<br />
 -> https://www.mongodb.com/download-center/compass
 
 Mongoose - https://mongoosejs.com/<br />
--$ npm install mongoose --save
+$ npm install mongoose --save
